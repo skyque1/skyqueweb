@@ -798,9 +798,16 @@ text-decoration: none;
   left: 5vh;
   width: 100%;
   position: absolute;
+  margin-top: 30px;
 
 }
-
+.imgg{
+  width: 90vh;
+  justify-content: space-between;
+        height: 400px;
+        display: flex;
+        margin-left: 5vh;
+}
 .centeredd{
   padding: 28vh;
   text-align: center;
@@ -815,4 +822,12 @@ text-decoration: none;
 }
 .navbar{
   position: fixed;
+}
+.col{
+  border-radius: 30px;
+}
+
+.card-body{
+border-top: 5px solid #000000;
+border-radius: 20px;
 }
