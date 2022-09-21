@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
 * {
   font-family: "Poppins", sans-serif;
   margin: 0;
@@ -926,6 +928,12 @@ section {
 }
 
  .text-bwi-font{
-  font-family: "Cookie";
-  
+  font-family: 'Cookie', cursive;
  } 
+ .font{
+  display: flex;
+  position: relative;
+  margin-top: 500px;
+  margin-left: 100px;
+  font-size: 50px;
+ }
