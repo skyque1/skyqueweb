@@ -1,4 +1,3 @@
-
 # Landing Page GeekSpace
 Yo Hallo !
 Landing page Skyque <sub>a.k.a : GeekSpace</sub> sedang dalam <mark>proses pengembangan</mark>. Diharapkan kerjasama antar individu agar cepat rampung dan cuan turun semua. Supaya bisa full senyum :laughing:
@@ -29,3 +28,6 @@ Mas Fadhil, Panggil Saja[Ohank](https://github.com/OhangDevelop)
 Om Gilang [Abang Designer ](https://github.com/Giiyasa)
 
 Mamang Megah `Belum ada link nya`
+
+---
+**&copy;** [Skyque](https://github.com/skyque1/skyqueweb) 2022
